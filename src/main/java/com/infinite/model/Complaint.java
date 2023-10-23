@@ -6,7 +6,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 /**
- * @author vasanthis
+ * @author vasanthis //pojo class
  *
  */
 @Entity
