@@ -5,6 +5,8 @@ import java.util.List;
 import com.infinite.model.Complaint;
 
 public interface IComplaintService {
+	
+	// methods are declared 
 	public List<Complaint> getAllComplaints();
 
 	public Complaint getComplaints(int id);
